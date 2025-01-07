@@ -4,18 +4,18 @@
 
 <img src="./assets/images/menu_features.png" width="25%" height="25%">
 
-- **Imperial Soldier Cloak** and **Imperial Legate Cloak** added to the game.
-- New immersive features to enhance the experience in Skyrim.
+  - **Imperial Soldier Cloak** and **Imperial Legate Cloak** added to the game.
+  - New immersive features to enhance the experience in Skyrim.
 
 <img src="./assets/images/menu_craftinglocs.png" width="25%" height="25%">
 
-- The cloaks can be crafted in **Solitude**, **Falkreath**, **Morthal**, and **Markarth**.
-- After completing the **Battle for Whiterun** and siding with the **Empire** in the Civil War, you’ll also be able to craft them in **Whiterun**.
+  - The cloaks can be crafted in **Solitude**, **Falkreath**, **Morthal**, and **Markarth**.
+  - After completing the **Battle for Whiterun** and siding with the **Empire** in the Civil War, you’ll also be able to craft them in **Whiterun**.
 
-<img src="./assets/images/menu_requiremnts.png" width="25%" height="25%">
+<img src="./assets/images/menu_requirements.png" width="25%" height="25%">
 
-- **Skyrim Special Edition (SE)** or **Skyrim VR**.
-- **Dawnguard** DLC is required.
+  - **Skyrim Special Edition (SE)** or **Skyrim VR**.
+  - **Dawnguard** DLC is required.
 
 <img src="./assets/images/menu_installation.png" width="25%" height="25%">
 
@@ -25,5 +25,5 @@
 
 <img src="./assets/images/menu_credits.png" width="25%" height="25%">
 
-- Created by Voltaccept.
-- Special thanks to the Skyrim modding community for their resources and support.
+  - Created by Voltaccept.
+  - Special thanks to the Skyrim modding community for their resources and support.
