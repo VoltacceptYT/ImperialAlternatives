@@ -7,6 +7,16 @@
 - **Imperial Soldier Cloak** and **Imperial Legate Cloak** added to the game.
 - New immersive features to enhance the experience in Skyrim.
 
+## Coming Soon
+
+**Imperial Legate Sword**  
+<i>An elegantly crafted sword designed for the high-ranking officers of the Empire. The Imperial Legate Sword will bring additional flair and functionality to your Imperial roleplay. With intricate detailing and a heavier, more commanding appearance, this weapon is sure to be a prestigious addition to any Imperial soldier's arsenal.</i>
+
+---
+
+**Imperial Soldier Sword**  
+<i>The Imperial Soldier Sword will be a more practical, straightforward weapon intended for the rank-and-file troops of the Empire. Simple yet effective, it will offer a solid balance between power and ease of use, perfect for the soldier who spends their days on the battlefield.</i>
+
 ## Crafting Locations
 
 - The cloaks can be crafted in **Solitude**, **Falkreath**, **Morthal**, and **Markarth**.
@@ -27,4 +37,4 @@
 
 - Created by **Voltaccept**.
 - Thanks to the Skyrim modding community for their resources and support.
-- Special thanks to the creator of the **Cloaks and Capes Mod** for their inspiration.
+- Special thanks to the creator of the **Cloaks and Capes Mod** for the inspiration.
