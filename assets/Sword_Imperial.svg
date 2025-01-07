@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 100% 100%" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                * {
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                    font-size: 16px;
+                }
+                
+                .small {
+                    font-size: 10px;
+                }
+            </style>
+            <p class="small">
+                <i>The Imperial Soldier Sword will be a more practical, straightforward weapon intended for the rank-and-file troops of the Empire. Simple yet effective, it will offer a solid balance between power and ease of use, perfect for the soldier who spends their days on the battlefield.</i>
+            </p>
+        </div>
+    </foreignObject>
+</svg>
