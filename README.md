@@ -10,12 +10,12 @@
 ## Coming Soon
 
 **Imperial Legate Sword**  
-<img src="assets/Sword_ImperialLegate.svg" alt="Coming Soon">
+<img src="assets/Sword_ImperialLegate.svg" alt="Coming Soon" width="100%" height="100%">
 
 ---
 
 **Imperial Soldier Sword**  
-<img src="assets/Sword_Imperial.svg" alt="Coming Soon">
+<img src="assets/Sword_Imperial.svg" alt="Coming Soon" width="100%" height="100%">
 
 ## Crafting Locations
 
